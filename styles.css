@@ -1,0 +1,256 @@
+#logo {
+  width:100px;
+  margin:auto;
+  position:relative;
+  left:80px;
+}
+
+.line {
+  float:left;
+  height:50px;
+  position:relative;
+  left:200px;
+  top:-15px;
+}
+
+#signinlabel {
+  height:20px;
+  position:relative;
+  left:93px;
+  top:-8px;
+}
+#signin {
+  font-weight:bold;
+  font-size:18px;
+  position:relative;
+  left:250px;
+  top:-50px;
+}
+
+#designedline {
+  position:relative;
+  left:380px;
+  top:-110px;
+}
+
+#bell {
+  position:relative;
+  left:380px;
+  top:-118px;
+  height:30px;
+}
+
+.extraline {
+  position:relative;
+  left:385px;
+  top:-110px;
+}
+
+.option {
+  position:absolute;
+  top:1px;
+  left:480px;
+  font-weight:bold;
+}
+
+.anotherline {
+  position:relative;
+  left:435px;
+  top:-110px;
+}
+
+.sport {
+  position:relative;
+  left:550px;
+  top:-162px;
+  font-weight:bold;
+}
+
+.aline {
+  position:relative;
+  left:608px;
+  top:-215px;
+}
+
+.weather {
+  position:relative;
+  left:635px;
+  top:-270px;
+  font-weight:bold;
+}
+
+.cloneline {
+  position:relative;
+  left:710px;
+  top:-325px;
+}
+
+.iplayer {
+position:relative;
+left:740px;
+top:-380px;
+font-weight:bold;
+}
+
+.linetwo {
+position:relative;
+left:800px;
+top:-435px;
+}
+
+.tv {
+position:relative;
+left:830px;
+top:-487px;
+font-weight:bold;
+}
+
+.linethree {
+  position:relative;
+  left:870px;
+  top:-545px;
+
+}
+
+.radio {
+position:absolute;
+right:590px;
+top:5px;
+font-weight:bold;
+}
+
+.linefour {
+position:relative;
+left:930px;
+top: -545px;
+}
+
+.more {
+position:relative;
+left:985px;
+top:-595px;
+font-weight:bold;
+}
+
+.linefive {
+position:absolute;
+right:412px;
+top:1px;
+}
+
+.arrow {
+  position:absolute;
+  right:430px;
+  top:15px;
+}
+
+.searchbox {
+  position:absolute;
+  right:250px;
+  top:21px;
+  font-weight:bold;
+  border:none;
+  background-color:#E4E4E4
+}
+
+#glass{
+  position:absolute;
+  right:230px;
+  top:23px;
+  width:20px;
+}
+
+#redbar {
+background-color:#BB1919;
+width:1550px;
+height:80px;
+margin:0;
+position:absolute;
+top:45px;
+left:0px;
+}
+
+#news {
+  color:white;
+  font-size:50px;
+  font-weight:normal;
+  position:absolute;
+  top:-47px;
+  left:8px;
+  padding:4px;
+}
+
+#local{
+  position:relative;
+  left:1140px;
+  top:20px;
+  color:white;
+  font-size:20px;
+  border:1px white solid;
+  width:200px;
+}
+
+#local a{
+  color:white;
+  text-decoration:none;
+}
+
+#local a:hover {
+  text-decoration:underline;
+}
+
+#darkred {
+  background-color:#A91717;
+  height:40px;
+  width:1550px;
+  position:absolute;
+  top:79px;
+}
+
+#sections a{
+  color:white;
+  text-decoration:none;
+  border-right:1px solid #BB4545;
+  margin-top:5px;
+  padding:0px 10px;
+  position:relative;
+  left:105px;
+  top:8px;
+}
+
+#sections a:hover {
+  text-decoration:underline;
+}
+
+.anotherarrow {
+  position:absolute;
+  right:465px;
+  top:1px;
+}
+
+.tech {
+  font-weight:normal;
+  margin-top:25px;
+  font-size:20px;
+  border-bottom:3px solid #a91717;
+  position:absolute;
+  left:113px;
+}
+
+#title a{
+  text-decoration:none;
+  color:black;
+  position:absolute;
+  top:90px;
+  left:113px;
+  font-size:30px;
+}
+
+#title a:hover {
+  color:#1167a8;
+}
+
+.main-article {
+  margin:120px;
+  width:200px;
+}
